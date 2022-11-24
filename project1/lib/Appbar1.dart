@@ -17,7 +17,7 @@ class Appbar1 extends StatelessWidget {
           size: 30,
         ),
         title: const Text(
-          'Instagram',
+          'facebook',
           style: TextStyle(color: Colors.black, fontSize: 25.0),
         ),
         backgroundColor: Colors.white,
